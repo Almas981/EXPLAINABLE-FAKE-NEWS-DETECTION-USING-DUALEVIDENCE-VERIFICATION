@@ -2,7 +2,7 @@
 
 **Evidence-first claim verification with auditable retrieval and natural-language inference**
 
-[Live application](https://explainable-news-verifier.vercel.app) · [Source code](https://github.com/Aleem547/explainable-news-verifier)
+[Live application](https://explainable-news-verifier.vercel.app) · [Source code]([https://github.com/Aleem547/explainable-news-verifier](https://github.com/Almas981/EXPLAINABLE-FAKE-NEWS-DETECTION-USING-DUALEVIDENCE-VERIFICATION))
 
 ## Overview
 
